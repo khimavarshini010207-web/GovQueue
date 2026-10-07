@@ -1,0 +1,1417 @@
+{
+  "users": [
+    {
+      "id": "user-citizen-rahul",
+      "fullName": "Rahul Sharma",
+      "email": "citizen@govqueue.demo",
+      "phone": "+91 98765 43210",
+      "passwordHash": "$2b$10$EaUvZefgdjO8RuaM8PkMqewWzOZC2KL8GQMDfr3BJT1jZM4DFZLr2",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "user-staff-priya",
+      "fullName": "Priya Verma",
+      "email": "staff@govqueue.demo",
+      "phone": "+91 98765 43211",
+      "passwordHash": "$2b$10$EaUvZefgdjO8RuaM8PkMqewWzOZC2KL8GQMDfr3BJT1jZM4DFZLr2",
+      "role": "STAFF",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "user-admin-rajesh",
+      "fullName": "Rajesh Kumar",
+      "email": "admin@govqueue.demo",
+      "phone": "+91 98765 43212",
+      "passwordHash": "$2b$10$EaUvZefgdjO8RuaM8PkMqewWzOZC2KL8GQMDfr3BJT1jZM4DFZLr2",
+      "role": "ADMIN",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "user-mock-23",
+      "fullName": "Ananya Deshmukh",
+      "email": "ananya.d@example.com",
+      "phone": "+91 98765 11123",
+      "passwordHash": "$2b$10$EaUvZefgdjO8RuaM8PkMqewWzOZC2KL8GQMDfr3BJT1jZM4DFZLr2",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "user-mock-24",
+      "fullName": "Vikram Patel",
+      "email": "vikram.p@example.com",
+      "phone": "+91 98765 11124",
+      "passwordHash": "$2b$10$EaUvZefgdjO8RuaM8PkMqewWzOZC2KL8GQMDfr3BJT1jZM4DFZLr2",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "user-mock-25",
+      "fullName": "Meera Iyer",
+      "email": "meera.i@example.com",
+      "phone": "+91 98765 11125",
+      "passwordHash": "$2b$10$EaUvZefgdjO8RuaM8PkMqewWzOZC2KL8GQMDfr3BJT1jZM4DFZLr2",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "user-mock-26",
+      "fullName": "Arjun Reddy",
+      "email": "arjun.r@example.com",
+      "phone": "+91 98765 11126",
+      "passwordHash": "$2b$10$EaUvZefgdjO8RuaM8PkMqewWzOZC2KL8GQMDfr3BJT1jZM4DFZLr2",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "user-1791366436865-7bl6",
+      "fullName": "Hima Varshini Karanam",
+      "email": "varshakaranam010207@gmail.com",
+      "phone": "8919591593",
+      "passwordHash": "$2b$10$7WryDMYSJOi25qaCwge6JOBNrBVLILqhQNvP2R6P1RO7404AcMcGu",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T09:47:16.865Z",
+      "updatedAt": "2026-10-07T09:47:16.865Z"
+    },
+    {
+      "id": "user-1791368926262-ohjr",
+      "fullName": "Audit Citizen",
+      "email": "audit_citizen_1791368926169@example.com",
+      "phone": "9876543210",
+      "passwordHash": "$2b$10$/0mWN6hySZkL.126eaes3u5ugx75/NloReSq/.n2CHhhWsplvgKm6",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T10:28:46.261Z",
+      "updatedAt": "2026-10-07T10:28:46.261Z"
+    },
+    {
+      "id": "user-1791368926959-38en",
+      "fullName": "Other Citizen",
+      "email": "other_citizen_1791368926868@example.com",
+      "phone": "9876543219",
+      "passwordHash": "$2b$10$P41hz6Xsz52vhwZy2zkZb./oY4F8KPBNENTdkfKW.LolvLURbnFmm",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T10:28:46.959Z",
+      "updatedAt": "2026-10-07T10:28:46.959Z"
+    },
+    {
+      "id": "user-1791368986894-1pjj",
+      "fullName": "Aarav Patel",
+      "email": "qa_citizen_1791368986803@test.gov",
+      "phone": "9876543210",
+      "passwordHash": "$2b$10$dbe4QCuFMMQH6UQt8T59Cul3//ZGw.E//lEIDaeuFkox5fDIo3f9.",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T10:29:46.894Z",
+      "updatedAt": "2026-10-07T10:29:46.894Z"
+    },
+    {
+      "id": "user-1791368987573-963d",
+      "fullName": "Rogue Citizen",
+      "email": "rogue_1791368986803@test.gov",
+      "phone": "9876543211",
+      "passwordHash": "$2b$10$xuhu8pU733iyhaf.tPWSnOEdTzGqczH7hsAeHxVNUkOavdetDTNve",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T10:29:47.573Z",
+      "updatedAt": "2026-10-07T10:29:47.573Z"
+    },
+    {
+      "id": "user-1791369048803-ke0y",
+      "fullName": "Rogue",
+      "email": "rogue1791369048624@test.com",
+      "phone": "1234567890",
+      "passwordHash": "$2b$10$0IKPq/nld9O0VUjbZhZ4MOwGf.PNjk8657MTdgBEVxoB6CX3yl9BK",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T10:30:48.803Z",
+      "updatedAt": "2026-10-07T10:30:48.803Z"
+    },
+    {
+      "id": "user-1791369087626-mu9o",
+      "fullName": "Rogue",
+      "email": "rogue1791369087456@test.com",
+      "phone": "1234567890",
+      "passwordHash": "$2b$10$/htW36M4gNBxyn3xVwfHTe86ri6jHeqX8KeUCHXBUzeeh4uVIinAW",
+      "role": "CITIZEN",
+      "createdAt": "2026-10-07T10:31:27.626Z",
+      "updatedAt": "2026-10-07T10:31:27.626Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "service-aadhaar-address",
+      "name": "Aadhaar Address Update",
+      "slug": "aadhaar-address-update",
+      "description": "Official update of residential address in the Aadhaar card database with biometric / OTP verification.",
+      "category": "Identity & Civil Records",
+      "department": "Unique Identification Authority",
+      "estimatedMinutes": 6,
+      "requiredDocuments": [
+        "Proof of Address (Utility bill, Registered Rent Agreement, or Bank Statement within 3 months)",
+        "Original Aadhaar Card",
+        "Registered Mobile Number for OTP authentication",
+        "Recent passport-size photograph (optional, captured digitally on-site)"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-pan-services",
+      "name": "PAN Services",
+      "slug": "pan-services",
+      "description": "Issuance of new Permanent Account Number (PAN), corrections, updates, and linking with Aadhaar.",
+      "category": "Taxation & Finance",
+      "department": "Income Tax Department",
+      "estimatedMinutes": 10,
+      "requiredDocuments": [
+        "Proof of Identity (Aadhaar Card, Voter ID, or Passport)",
+        "Proof of Date of Birth (Birth Certificate or Matriculation Marksheet)",
+        "Proof of Address",
+        "Two recent color passport photographs"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-birth-certificate",
+      "name": "Birth Certificate",
+      "slug": "birth-certificate",
+      "description": "Application, verification, and issuance of official digital birth certificate.",
+      "category": "Identity & Civil Records",
+      "department": "Municipal Corporation & Registrar of Births",
+      "estimatedMinutes": 12,
+      "requiredDocuments": [
+        "Hospital Discharge Summary / Birth Intimation Slip",
+        "Parents' Identity Proof (Aadhaar or Voter ID)",
+        "Parents' Marriage Certificate",
+        "Affidavit in case of delayed registration (> 21 days)"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-income-certificate",
+      "name": "Income Certificate",
+      "slug": "income-certificate",
+      "description": "Revenue department certification of annual family income for scholarship and welfare schemes.",
+      "category": "Certificates & Revenue",
+      "department": "Revenue & District Administration",
+      "estimatedMinutes": 10,
+      "requiredDocuments": [
+        "Salary Slips / Form 16 or Self-declaration of Agriculture / Business Income",
+        "Ration Card or Family Register entry",
+        "Proof of Residence",
+        "Affidavit sworn before Notary Public"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-residence-certificate",
+      "name": "Residence Certificate",
+      "slug": "residence-certificate",
+      "description": "Domicile / Permanent Residence Certificate establishing legal residence status.",
+      "category": "Certificates & Revenue",
+      "department": "Revenue Department",
+      "estimatedMinutes": 8,
+      "requiredDocuments": [
+        "Continuous residence proof for specified years (School records, Electricity bills)",
+        "Voter ID or Aadhaar Card",
+        "Property tax receipt or Rent Agreement"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-caste-certificate",
+      "name": "Caste Certificate",
+      "slug": "caste-certificate",
+      "description": "Official community verification and certificate issuance under reserved category provisions.",
+      "category": "Certificates & Revenue",
+      "department": "Social Welfare & Revenue",
+      "estimatedMinutes": 15,
+      "requiredDocuments": [
+        "Father's or Blood Relative's Caste Certificate",
+        "School Leaving Certificate mentioning caste",
+        "Family Tree / Pedigree declaration",
+        "Proof of Residence"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-driving-licence",
+      "name": "Driving Licence Services",
+      "slug": "driving-licence-services",
+      "description": "Learner's licence renewal, permanent driving licence renewal, international permit, and address change.",
+      "category": "Transport & Vehicles",
+      "department": "Regional Transport Office (RTO)",
+      "estimatedMinutes": 15,
+      "requiredDocuments": [
+        "Existing Driving Licence or Learner Licence",
+        "Medical Fitness Certificate (Form 1A)",
+        "Proof of Age and Address",
+        "Slot booking receipt for biometrics"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-passport-assistance",
+      "name": "Passport Assistance",
+      "slug": "passport-assistance",
+      "description": "Document verification and citizen facilitation counter for online Passport Seva Kendra filings.",
+      "category": "Foreign Affairs & Travel",
+      "department": "Consular & Passport Division",
+      "estimatedMinutes": 20,
+      "requiredDocuments": [
+        "Proof of Date of Birth",
+        "Proof of Identity with Present Address",
+        "Educational Qualification Certificate",
+        "Standard Annexures for minor/tatkaal where applicable"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-property-registration",
+      "name": "Property Registration",
+      "slug": "property-registration",
+      "description": "Sub-registrar appointment for deed verification, stamp duty check, and sale deed registration.",
+      "category": "Land & Housing",
+      "department": "Registration & Stamps Department",
+      "estimatedMinutes": 25,
+      "requiredDocuments": [
+        "Draft Deed / Conveyance Document",
+        "Title Search Report and Encumbrance Certificate",
+        "E-Challan payment proof of Stamp Duty & Registration Fees",
+        "ID and PAN cards of both buyer and seller with 2 witnesses"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "service-senior-citizen",
+      "name": "Senior Citizen Services",
+      "slug": "senior-citizen-services",
+      "description": "Senior Citizen Identity Card, state pension enrollment, and concession card issuance.",
+      "category": "Welfare & Social Security",
+      "department": "Social Justice & Empowerment",
+      "estimatedMinutes": 10,
+      "requiredDocuments": [
+        "Proof of Age (showing 60+ years: Birth Certificate, PAN, or Voter ID)",
+        "Proof of Residence",
+        "Bank Account passbook details",
+        "Blood Group report"
+      ],
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    }
+  ],
+  "serviceCenters": [
+    {
+      "id": "center-district",
+      "name": "District Citizen Service Center",
+      "code": "DCSC",
+      "address": "Administrative Complex, Collectorate Road, Sector 4",
+      "district": "Central District",
+      "state": "National Capital Region",
+      "pincode": "110001",
+      "phone": "+91 11 2345 6789",
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "center-mandal",
+      "name": "Mandal Citizen Service Center",
+      "code": "MCSC",
+      "address": "Tehsil Civic Office, Old Bazaar Circle",
+      "district": "South District",
+      "state": "National Capital Region",
+      "pincode": "110019",
+      "phone": "+91 11 2345 6790",
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "center-regional",
+      "name": "Regional Citizen Service Center",
+      "code": "RCSC",
+      "address": "Sub-Divisional Revenue Complex, Ring Road Phase 2",
+      "district": "North District",
+      "state": "National Capital Region",
+      "pincode": "110054",
+      "phone": "+91 11 2345 6791",
+      "isActive": true,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    }
+  ],
+  "operatingHours": [
+    {
+      "id": "op-center-district-0",
+      "centerId": "center-district",
+      "dayOfWeek": 0,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": true
+    },
+    {
+      "id": "op-center-district-1",
+      "centerId": "center-district",
+      "dayOfWeek": 1,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-district-2",
+      "centerId": "center-district",
+      "dayOfWeek": 2,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-district-3",
+      "centerId": "center-district",
+      "dayOfWeek": 3,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-district-4",
+      "centerId": "center-district",
+      "dayOfWeek": 4,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-district-5",
+      "centerId": "center-district",
+      "dayOfWeek": 5,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-district-6",
+      "centerId": "center-district",
+      "dayOfWeek": 6,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-mandal-0",
+      "centerId": "center-mandal",
+      "dayOfWeek": 0,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": true
+    },
+    {
+      "id": "op-center-mandal-1",
+      "centerId": "center-mandal",
+      "dayOfWeek": 1,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-mandal-2",
+      "centerId": "center-mandal",
+      "dayOfWeek": 2,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-mandal-3",
+      "centerId": "center-mandal",
+      "dayOfWeek": 3,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-mandal-4",
+      "centerId": "center-mandal",
+      "dayOfWeek": 4,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-mandal-5",
+      "centerId": "center-mandal",
+      "dayOfWeek": 5,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-mandal-6",
+      "centerId": "center-mandal",
+      "dayOfWeek": 6,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-regional-0",
+      "centerId": "center-regional",
+      "dayOfWeek": 0,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": true
+    },
+    {
+      "id": "op-center-regional-1",
+      "centerId": "center-regional",
+      "dayOfWeek": 1,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-regional-2",
+      "centerId": "center-regional",
+      "dayOfWeek": 2,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-regional-3",
+      "centerId": "center-regional",
+      "dayOfWeek": 3,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-regional-4",
+      "centerId": "center-regional",
+      "dayOfWeek": 4,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-regional-5",
+      "centerId": "center-regional",
+      "dayOfWeek": 5,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    },
+    {
+      "id": "op-center-regional-6",
+      "centerId": "center-regional",
+      "dayOfWeek": 6,
+      "openTime": "09:00",
+      "closeTime": "17:00",
+      "isClosed": false
+    }
+  ],
+  "counters": [
+    {
+      "id": "counter-center-district-1",
+      "centerId": "center-district",
+      "name": "Counter 1",
+      "counterNumber": 1,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-district-2",
+      "centerId": "center-district",
+      "name": "Counter 2",
+      "counterNumber": 2,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-district-3",
+      "centerId": "center-district",
+      "name": "Counter 3",
+      "counterNumber": 3,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-district-4",
+      "centerId": "center-district",
+      "name": "Counter 4",
+      "counterNumber": 4,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-mandal-1",
+      "centerId": "center-mandal",
+      "name": "Counter 1",
+      "counterNumber": 1,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-mandal-2",
+      "centerId": "center-mandal",
+      "name": "Counter 2",
+      "counterNumber": 2,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-mandal-3",
+      "centerId": "center-mandal",
+      "name": "Counter 3",
+      "counterNumber": 3,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-mandal-4",
+      "centerId": "center-mandal",
+      "name": "Counter 4",
+      "counterNumber": 4,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-regional-1",
+      "centerId": "center-regional",
+      "name": "Counter 1",
+      "counterNumber": 1,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-regional-2",
+      "centerId": "center-regional",
+      "name": "Counter 2",
+      "counterNumber": 2,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-regional-3",
+      "centerId": "center-regional",
+      "name": "Counter 3",
+      "counterNumber": 3,
+      "isActive": true
+    },
+    {
+      "id": "counter-center-regional-4",
+      "centerId": "center-regional",
+      "name": "Counter 4",
+      "counterNumber": 4,
+      "isActive": true
+    }
+  ],
+  "staffProfiles": [
+    {
+      "id": "staff-profile-1",
+      "userId": "user-staff-priya",
+      "centerId": "center-district",
+      "employeeId": "EMP-9021",
+      "designation": "Senior Public Services Officer"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "init-queue-trigger",
+      "citizenId": "user-citizen-rahul",
+      "serviceId": "service-aadhaar-address",
+      "centerId": "center-district",
+      "appointmentDate": "2026-10-07",
+      "startTime": "09:00",
+      "endTime": "09:15",
+      "status": "COMPLETED",
+      "bookingReference": "GQ-2026-INIT",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "apt-demo-a23",
+      "citizenId": "user-mock-23",
+      "serviceId": "service-aadhaar-address",
+      "centerId": "center-district",
+      "appointmentDate": "2026-10-07",
+      "startTime": "10:10",
+      "endTime": "10:25",
+      "status": "COMPLETED",
+      "bookingReference": "GQ-2026-07A23",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T10:29:47.595Z"
+    },
+    {
+      "id": "apt-demo-a24",
+      "citizenId": "user-mock-24",
+      "serviceId": "service-aadhaar-address",
+      "centerId": "center-district",
+      "appointmentDate": "2026-10-07",
+      "startTime": "10:15",
+      "endTime": "10:30",
+      "status": "IN_QUEUE",
+      "bookingReference": "GQ-2026-07A24",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T10:29:47.595Z"
+    },
+    {
+      "id": "apt-demo-a25",
+      "citizenId": "user-mock-25",
+      "serviceId": "service-aadhaar-address",
+      "centerId": "center-district",
+      "appointmentDate": "2026-10-07",
+      "startTime": "10:20",
+      "endTime": "10:35",
+      "status": "CHECKED_IN",
+      "bookingReference": "GQ-2026-07A25",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "apt-demo-a26",
+      "citizenId": "user-mock-26",
+      "serviceId": "service-aadhaar-address",
+      "centerId": "center-district",
+      "appointmentDate": "2026-10-07",
+      "startTime": "10:25",
+      "endTime": "10:40",
+      "status": "CHECKED_IN",
+      "bookingReference": "GQ-2026-07A26",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "apt-demo-a27",
+      "citizenId": "user-citizen-rahul",
+      "serviceId": "service-aadhaar-address",
+      "centerId": "center-district",
+      "appointmentDate": "2026-10-07",
+      "startTime": "10:30",
+      "endTime": "10:45",
+      "status": "CHECKED_IN",
+      "bookingReference": "GQ-2026-07A27",
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "apt-1791365848655-bcr2",
+      "citizenId": "user-citizen-rahul",
+      "serviceId": "service-birth-certificate",
+      "centerId": "center-regional",
+      "appointmentDate": "2026-10-08",
+      "startTime": "10:30",
+      "endTime": "10:42",
+      "status": "CONFIRMED",
+      "bookingReference": "GQ-2026-8QDW",
+      "createdAt": "2026-10-07T09:37:28.655Z",
+      "updatedAt": "2026-10-07T09:37:28.655Z"
+    },
+    {
+      "id": "apt-1791369034416-rmbb",
+      "citizenId": "user-citizen-rahul",
+      "serviceId": "service-aadhaar-address",
+      "centerId": "center-district",
+      "appointmentDate": "2026-10-09",
+      "startTime": "10:00",
+      "endTime": "10:06",
+      "status": "CANCELLED",
+      "bookingReference": "GQ-2026-LXTL",
+      "createdAt": "2026-10-07T10:30:34.416Z",
+      "updatedAt": "2026-10-07T10:31:27.728Z"
+    }
+  ],
+  "queues": [
+    {
+      "id": "queue-1791365484393-tp7ab",
+      "centerId": "center-district",
+      "serviceId": "service-aadhaar-address",
+      "queueDate": "2026-10-07",
+      "currentNumber": 24,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-07T09:31:24.393Z",
+      "updatedAt": "2026-10-07T10:29:47.596Z"
+    },
+    {
+      "id": "queue-1791365848655-jh76j",
+      "centerId": "center-regional",
+      "serviceId": "service-birth-certificate",
+      "queueDate": "2026-10-08",
+      "currentNumber": 0,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-07T09:37:28.655Z",
+      "updatedAt": "2026-10-07T09:37:28.655Z"
+    },
+    {
+      "id": "queue-1791369034416-1jrmd",
+      "centerId": "center-district",
+      "serviceId": "service-aadhaar-address",
+      "queueDate": "2026-10-09",
+      "currentNumber": 0,
+      "status": "ACTIVE",
+      "createdAt": "2026-10-07T10:30:34.416Z",
+      "updatedAt": "2026-10-07T10:30:34.416Z"
+    }
+  ],
+  "queueTokens": [
+    {
+      "id": "token-a23",
+      "queueId": "queue-1791365484393-tp7ab",
+      "appointmentId": "apt-demo-a23",
+      "tokenNumber": 23,
+      "tokenCode": "A23",
+      "status": "COMPLETED",
+      "checkedInAt": "2026-10-07T10:05:00.000Z",
+      "calledAt": "2026-10-07T10:12:00.000Z",
+      "completedAt": "2026-10-07T10:29:47.594Z",
+      "estimatedWaitMinutes": 0,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T10:29:47.594Z"
+    },
+    {
+      "id": "token-a24",
+      "queueId": "queue-1791365484393-tp7ab",
+      "appointmentId": "apt-demo-a24",
+      "tokenNumber": 24,
+      "tokenCode": "A24",
+      "status": "SERVING",
+      "checkedInAt": "2026-10-07T10:10:00.000Z",
+      "calledAt": "2026-10-07T10:29:47.594Z",
+      "completedAt": null,
+      "estimatedWaitMinutes": 6,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T10:29:47.595Z"
+    },
+    {
+      "id": "token-a25",
+      "queueId": "queue-1791365484393-tp7ab",
+      "appointmentId": "apt-demo-a25",
+      "tokenNumber": 25,
+      "tokenCode": "A25",
+      "status": "WAITING",
+      "checkedInAt": "2026-10-07T10:14:00.000Z",
+      "calledAt": null,
+      "completedAt": null,
+      "estimatedWaitMinutes": 12,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "token-a26",
+      "queueId": "queue-1791365484393-tp7ab",
+      "appointmentId": "apt-demo-a26",
+      "tokenNumber": 26,
+      "tokenCode": "A26",
+      "status": "WAITING",
+      "checkedInAt": "2026-10-07T10:18:00.000Z",
+      "calledAt": null,
+      "completedAt": null,
+      "estimatedWaitMinutes": 18,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "token-a27",
+      "queueId": "queue-1791365484393-tp7ab",
+      "appointmentId": "apt-demo-a27",
+      "tokenNumber": 27,
+      "tokenCode": "A27",
+      "status": "WAITING",
+      "checkedInAt": "2026-10-07T10:20:00.000Z",
+      "calledAt": null,
+      "completedAt": null,
+      "estimatedWaitMinutes": 18,
+      "createdAt": "2026-10-07T09:00:00.000Z",
+      "updatedAt": "2026-10-07T09:00:00.000Z"
+    },
+    {
+      "id": "token-1791365848655-gsey",
+      "queueId": "queue-1791365848655-jh76j",
+      "appointmentId": "apt-1791365848655-bcr2",
+      "tokenNumber": 1,
+      "tokenCode": "B1",
+      "status": "WAITING",
+      "checkedInAt": null,
+      "calledAt": null,
+      "completedAt": null,
+      "estimatedWaitMinutes": 0,
+      "createdAt": "2026-10-07T09:37:28.655Z",
+      "updatedAt": "2026-10-07T09:37:28.655Z"
+    },
+    {
+      "id": "token-1791369034417-csec",
+      "queueId": "queue-1791369034416-1jrmd",
+      "appointmentId": "apt-1791369034416-rmbb",
+      "tokenNumber": 1,
+      "tokenCode": "A1",
+      "status": "CANCELLED",
+      "checkedInAt": null,
+      "calledAt": null,
+      "completedAt": null,
+      "estimatedWaitMinutes": 0,
+      "createdAt": "2026-10-07T10:30:34.416Z",
+      "updatedAt": "2026-10-07T10:31:27.729Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1791369087729",
+      "userId": "user-citizen-rahul",
+      "appointmentId": "apt-1791369034416-rmbb",
+      "type": "APPOINTMENT_CANCELLED",
+      "title": "Appointment Cancelled",
+      "message": "Your appointment for Aadhaar Address Update on 2026-10-09 has been cancelled.",
+      "isRead": false,
+      "createdAt": "2026-10-07T10:31:27.728Z"
+    },
+    {
+      "id": "notif-1791369034417-oba6",
+      "userId": "user-citizen-rahul",
+      "appointmentId": "apt-1791369034416-rmbb",
+      "type": "APPOINTMENT_CONFIRMED",
+      "title": "Appointment Confirmed",
+      "message": "Your booking for Aadhaar Address Update at District Citizen Service Center on 2026-10-09 at 10:00 is confirmed. Booking ref: GQ-2026-LXTL, Token: A1.",
+      "isRead": false,
+      "createdAt": "2026-10-07T10:30:34.416Z"
+    },
+    {
+      "id": "notif-1791368987596",
+      "userId": "user-mock-24",
+      "appointmentId": "apt-demo-a24",
+      "type": "TOKEN_CALLED",
+      "title": "Token A24 Called!",
+      "message": "Your token A24 is now being served. Please proceed to the service desk immediately.",
+      "isRead": false,
+      "createdAt": "2026-10-07T10:29:47.594Z"
+    },
+    {
+      "id": "notif-1791365848656-79gu",
+      "userId": "user-citizen-rahul",
+      "appointmentId": "apt-1791365848655-bcr2",
+      "type": "APPOINTMENT_CONFIRMED",
+      "title": "Appointment Confirmed",
+      "message": "Your booking for Birth Certificate at Regional Citizen Service Center on 2026-10-08 at 10:30 is confirmed. Booking ref: GQ-2026-8QDW, Token: B1.",
+      "isRead": false,
+      "createdAt": "2026-10-07T09:37:28.655Z"
+    },
+    {
+      "id": "notif-rahul-welcome",
+      "userId": "user-citizen-rahul",
+      "appointmentId": "apt-demo-a27",
+      "type": "CHECK_IN",
+      "title": "Checked In - Token A27 Generated",
+      "message": "You are checked in for Aadhaar Address Update. Your token is A27. There are 3 citizens ahead of you.",
+      "isRead": false,
+      "createdAt": "2026-10-07T10:20:00.000Z"
+    }
+  ],
+  "aiConversations": [
+    {
+      "id": "convo-1791368926975-uh84",
+      "userId": "anonymous-citizen",
+      "createdAt": "2026-10-07T10:28:46.975Z",
+      "updatedAt": "2026-10-07T10:28:46.975Z"
+    },
+    {
+      "id": "convo-1791368987610-egoq",
+      "userId": "anonymous-citizen",
+      "createdAt": "2026-10-07T10:29:47.610Z",
+      "updatedAt": "2026-10-07T10:29:47.610Z"
+    },
+    {
+      "id": "convo-1791368989789-1sjk",
+      "userId": "anonymous-citizen",
+      "createdAt": "2026-10-07T10:29:49.789Z",
+      "updatedAt": "2026-10-07T10:29:49.789Z"
+    },
+    {
+      "id": "convo-1791369076612-t0fy",
+      "userId": "anonymous-citizen",
+      "createdAt": "2026-10-07T10:31:16.612Z",
+      "updatedAt": "2026-10-07T10:31:16.612Z"
+    }
+  ],
+  "aiMessages": [
+    {
+      "id": "msg-1791368926975-guvc",
+      "conversationId": "convo-1791368926975-uh84",
+      "role": "user",
+      "content": "What documents do I need to update my Aadhaar address?",
+      "createdAt": "2026-10-07T10:28:46.975Z"
+    },
+    {
+      "id": "msg-1791368987611-barb",
+      "conversationId": "convo-1791368987610-egoq",
+      "role": "user",
+      "content": "What documents do I need to update my Aadhaar address?",
+      "createdAt": "2026-10-07T10:29:47.610Z"
+    },
+    {
+      "id": "msg-1791368989783-bp4f",
+      "conversationId": "convo-1791368987610-egoq",
+      "role": "assistant",
+      "content": "{\"intent\":\"Citizen inquiry related to Aadhaar Address Update\",\"recommendedServiceId\":\"service-aadhaar-address\",\"recommendedServiceName\":\"Aadhaar Address Update\",\"reason\":\"AI guidance is temporarily unavailable. Showing the closest matching service based on your request.\",\"requiredDocuments\":[\"Proof of Address (Utility bill, Registered Rent Agreement, or Bank Statement within 3 months)\",\"Original Aadhaar Card\",\"Registered Mobile Number for OTP authentication\",\"Recent passport-size photograph (optional, captured digitally on-site)\"],\"nextAction\":\"BOOK_APPOINTMENT\",\"confidence\":0.88}",
+      "createdAt": "2026-10-07T10:29:49.783Z"
+    },
+    {
+      "id": "msg-1791368989789-8vk7",
+      "conversationId": "convo-1791368989789-1sjk",
+      "role": "user",
+      "content": "I need a birth certificate for newborn",
+      "createdAt": "2026-10-07T10:29:49.789Z"
+    },
+    {
+      "id": "msg-1791368999190-pq7b",
+      "conversationId": "convo-1791368989789-1sjk",
+      "role": "assistant",
+      "content": "{\"intent\":\"Citizen inquiry related to Birth Certificate\",\"recommendedServiceId\":\"service-birth-certificate\",\"recommendedServiceName\":\"Birth Certificate\",\"reason\":\"AI guidance is temporarily unavailable. Showing the closest matching service based on your request.\",\"requiredDocuments\":[\"Hospital Discharge Summary / Birth Intimation Slip\",\"Parents' Identity Proof (Aadhaar or Voter ID)\",\"Parents' Marriage Certificate\",\"Affidavit in case of delayed registration (> 21 days)\"],\"nextAction\":\"BOOK_APPOINTMENT\",\"confidence\":0.88}",
+      "createdAt": "2026-10-07T10:29:59.190Z"
+    },
+    {
+      "id": "msg-1791369076606-0sjs",
+      "conversationId": "convo-1791368926975-uh84",
+      "role": "assistant",
+      "content": "{\"intent\":\"Citizen inquiry related to Aadhaar Address Update\",\"recommendedServiceId\":\"service-aadhaar-address\",\"recommendedServiceName\":\"Aadhaar Address Update\",\"reason\":\"AI guidance is temporarily unavailable. Showing the closest matching service based on your request.\",\"requiredDocuments\":[\"Proof of Address (Utility bill, Registered Rent Agreement, or Bank Statement within 3 months)\",\"Original Aadhaar Card\",\"Registered Mobile Number for OTP authentication\",\"Recent passport-size photograph (optional, captured digitally on-site)\"],\"nextAction\":\"BOOK_APPOINTMENT\",\"confidence\":0.88}",
+      "createdAt": "2026-10-07T10:31:16.606Z"
+    },
+    {
+      "id": "msg-1791369076612-pioe",
+      "conversationId": "convo-1791369076612-t0fy",
+      "role": "user",
+      "content": "I need a birth certificate.",
+      "createdAt": "2026-10-07T10:31:16.612Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "audit-1791369087729",
+      "userId": "user-citizen-rahul",
+      "action": "CANCEL_APPOINTMENT",
+      "entityType": "APPOINTMENT",
+      "entityId": "apt-1791369034416-rmbb",
+      "metadata": {
+        "bookingReference": "GQ-2026-LXTL"
+      },
+      "createdAt": "2026-10-07T10:31:27.728Z"
+    },
+    {
+      "id": "audit-1791369087723",
+      "userId": "user-citizen-rahul",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-citizen-rahul",
+      "metadata": {
+        "email": "citizen@govqueue.demo",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:31:27.723Z"
+    },
+    {
+      "id": "audit-1791369087626",
+      "userId": "user-1791369087626-mu9o",
+      "action": "REGISTER",
+      "entityType": "USER",
+      "entityId": "user-1791369087626-mu9o",
+      "metadata": {
+        "email": "rogue1791369087456@test.com",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:31:27.626Z"
+    },
+    {
+      "id": "audit-1791369076607",
+      "userId": null,
+      "action": "AI_GUIDANCE",
+      "entityType": "AI_CONVERSATION",
+      "entityId": "convo-1791368926975-uh84",
+      "metadata": {
+        "intent": "Citizen inquiry related to Aadhaar Address Update",
+        "recommendedServiceName": "Aadhaar Address Update",
+        "confidence": 0.88
+      },
+      "createdAt": "2026-10-07T10:31:16.607Z"
+    },
+    {
+      "id": "audit-1791369048804",
+      "userId": "user-1791369048803-ke0y",
+      "action": "REGISTER",
+      "entityType": "USER",
+      "entityId": "user-1791369048803-ke0y",
+      "metadata": {
+        "email": "rogue1791369048624@test.com",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:30:48.803Z"
+    },
+    {
+      "id": "audit-1791369034418",
+      "userId": "user-citizen-rahul",
+      "action": "CREATE_APPOINTMENT",
+      "entityType": "APPOINTMENT",
+      "entityId": "apt-1791369034416-rmbb",
+      "metadata": {
+        "bookingReference": "GQ-2026-LXTL",
+        "tokenCode": "A1",
+        "date": "2026-10-09",
+        "time": "10:00",
+        "serviceName": "Aadhaar Address Update"
+      },
+      "createdAt": "2026-10-07T10:30:34.416Z"
+    },
+    {
+      "id": "audit-1791369034387",
+      "userId": "user-citizen-rahul",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-citizen-rahul",
+      "metadata": {
+        "email": "citizen@govqueue.demo",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:30:34.387Z"
+    },
+    {
+      "id": "audit-1791369018885",
+      "userId": "user-citizen-rahul",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-citizen-rahul",
+      "metadata": {
+        "email": "citizen@govqueue.demo",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:30:18.885Z"
+    },
+    {
+      "id": "audit-1791368999191",
+      "userId": null,
+      "action": "AI_GUIDANCE",
+      "entityType": "AI_CONVERSATION",
+      "entityId": "convo-1791368989789-1sjk",
+      "metadata": {
+        "intent": "Citizen inquiry related to Birth Certificate",
+        "recommendedServiceName": "Birth Certificate",
+        "confidence": 0.88
+      },
+      "createdAt": "2026-10-07T10:29:59.191Z"
+    },
+    {
+      "id": "audit-1791368989783",
+      "userId": null,
+      "action": "AI_GUIDANCE",
+      "entityType": "AI_CONVERSATION",
+      "entityId": "convo-1791368987610-egoq",
+      "metadata": {
+        "intent": "Citizen inquiry related to Aadhaar Address Update",
+        "recommendedServiceName": "Aadhaar Address Update",
+        "confidence": 0.88
+      },
+      "createdAt": "2026-10-07T10:29:49.783Z"
+    },
+    {
+      "id": "audit-1791368987596",
+      "userId": "user-staff-priya",
+      "action": "CALL_NEXT",
+      "entityType": "QUEUE_TOKEN",
+      "entityId": "token-a24",
+      "metadata": {
+        "queueId": "queue-1791365484393-tp7ab",
+        "tokenCode": "A24",
+        "tokenNumber": 24
+      },
+      "createdAt": "2026-10-07T10:29:47.594Z"
+    },
+    {
+      "id": "audit-1791368987573",
+      "userId": "user-1791368987573-963d",
+      "action": "REGISTER",
+      "entityType": "USER",
+      "entityId": "user-1791368987573-963d",
+      "metadata": {
+        "email": "rogue_1791368986803@test.gov",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:29:47.573Z"
+    },
+    {
+      "id": "audit-1791368987372",
+      "userId": "user-admin-rajesh",
+      "action": "INTERNAL_LOGIN",
+      "entityType": "USER",
+      "entityId": "user-admin-rajesh",
+      "metadata": {
+        "email": "admin@govqueue.demo",
+        "role": "ADMIN"
+      },
+      "createdAt": "2026-10-07T10:29:47.372Z"
+    },
+    {
+      "id": "audit-1791368987279",
+      "userId": "user-staff-priya",
+      "action": "INTERNAL_LOGIN",
+      "entityType": "USER",
+      "entityId": "user-staff-priya",
+      "metadata": {
+        "email": "staff@govqueue.demo",
+        "role": "STAFF"
+      },
+      "createdAt": "2026-10-07T10:29:47.279Z"
+    },
+    {
+      "id": "audit-1791368987192",
+      "userId": "user-citizen-rahul",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-citizen-rahul",
+      "metadata": {
+        "email": "citizen@govqueue.demo",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:29:47.192Z"
+    },
+    {
+      "id": "audit-1791368987104",
+      "userId": "user-1791368986894-1pjj",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-1791368986894-1pjj",
+      "metadata": {
+        "email": "qa_citizen_1791368986803@test.gov",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:29:47.104Z"
+    },
+    {
+      "id": "audit-1791368986894",
+      "userId": "user-1791368986894-1pjj",
+      "action": "REGISTER",
+      "entityType": "USER",
+      "entityId": "user-1791368986894-1pjj",
+      "metadata": {
+        "email": "qa_citizen_1791368986803@test.gov",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:29:46.894Z"
+    },
+    {
+      "id": "audit-1791368926959",
+      "userId": "user-1791368926959-38en",
+      "action": "REGISTER",
+      "entityType": "USER",
+      "entityId": "user-1791368926959-38en",
+      "metadata": {
+        "email": "other_citizen_1791368926868@example.com",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:28:46.959Z"
+    },
+    {
+      "id": "audit-1791368926729",
+      "userId": "user-admin-rajesh",
+      "action": "INTERNAL_LOGIN",
+      "entityType": "USER",
+      "entityId": "user-admin-rajesh",
+      "metadata": {
+        "email": "admin@govqueue.demo",
+        "role": "ADMIN"
+      },
+      "createdAt": "2026-10-07T10:28:46.729Z"
+    },
+    {
+      "id": "audit-1791368926641",
+      "userId": "user-staff-priya",
+      "action": "INTERNAL_LOGIN",
+      "entityType": "USER",
+      "entityId": "user-staff-priya",
+      "metadata": {
+        "email": "staff@govqueue.demo",
+        "role": "STAFF"
+      },
+      "createdAt": "2026-10-07T10:28:46.641Z"
+    },
+    {
+      "id": "audit-1791368926553",
+      "userId": "user-citizen-rahul",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-citizen-rahul",
+      "metadata": {
+        "email": "citizen@govqueue.demo",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:28:46.553Z"
+    },
+    {
+      "id": "audit-1791368926464",
+      "userId": "user-1791368926262-ohjr",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-1791368926262-ohjr",
+      "metadata": {
+        "email": "audit_citizen_1791368926169@example.com",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:28:46.464Z"
+    },
+    {
+      "id": "audit-1791368926262",
+      "userId": "user-1791368926262-ohjr",
+      "action": "REGISTER",
+      "entityType": "USER",
+      "entityId": "user-1791368926262-ohjr",
+      "metadata": {
+        "email": "audit_citizen_1791368926169@example.com",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:28:46.261Z"
+    },
+    {
+      "id": "audit-1791367760811",
+      "userId": "user-admin-rajesh",
+      "action": "INTERNAL_LOGIN",
+      "entityType": "USER",
+      "entityId": "user-admin-rajesh",
+      "metadata": {
+        "email": "admin@govqueue.demo",
+        "role": "ADMIN"
+      },
+      "createdAt": "2026-10-07T10:09:20.811Z"
+    },
+    {
+      "id": "audit-1791367743325",
+      "userId": "user-staff-priya",
+      "action": "INTERNAL_LOGIN",
+      "entityType": "USER",
+      "entityId": "user-staff-priya",
+      "metadata": {
+        "email": "staff@govqueue.demo",
+        "role": "STAFF"
+      },
+      "createdAt": "2026-10-07T10:09:03.325Z"
+    },
+    {
+      "id": "audit-1791367673918",
+      "userId": "user-citizen-rahul",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-citizen-rahul",
+      "metadata": {
+        "email": "citizen@govqueue.demo",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:07:53.918Z"
+    },
+    {
+      "id": "audit-1791367510793",
+      "userId": "user-admin-rajesh",
+      "action": "INTERNAL_LOGIN",
+      "entityType": "USER",
+      "entityId": "user-admin-rajesh",
+      "metadata": {
+        "email": "admin@govqueue.demo",
+        "role": "ADMIN"
+      },
+      "createdAt": "2026-10-07T10:05:10.793Z"
+    },
+    {
+      "id": "audit-1791367510693",
+      "userId": "user-staff-priya",
+      "action": "INTERNAL_LOGIN",
+      "entityType": "USER",
+      "entityId": "user-staff-priya",
+      "metadata": {
+        "email": "staff@govqueue.demo",
+        "role": "STAFF"
+      },
+      "createdAt": "2026-10-07T10:05:10.693Z"
+    },
+    {
+      "id": "audit-1791367510513",
+      "userId": "user-citizen-rahul",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-citizen-rahul",
+      "metadata": {
+        "email": "citizen@govqueue.demo",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T10:05:10.513Z"
+    },
+    {
+      "id": "audit-1791366436865",
+      "userId": "user-1791366436865-7bl6",
+      "action": "REGISTER",
+      "entityType": "USER",
+      "entityId": "user-1791366436865-7bl6",
+      "metadata": {
+        "email": "varshakaranam010207@gmail.com",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T09:47:16.865Z"
+    },
+    {
+      "id": "audit-1791365861024",
+      "userId": "user-staff-priya",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-staff-priya",
+      "metadata": {
+        "email": "staff@govqueue.demo",
+        "role": "STAFF"
+      },
+      "createdAt": "2026-10-07T09:37:41.024Z"
+    },
+    {
+      "id": "audit-1791365848656",
+      "userId": "user-citizen-rahul",
+      "action": "CREATE_APPOINTMENT",
+      "entityType": "APPOINTMENT",
+      "entityId": "apt-1791365848655-bcr2",
+      "metadata": {
+        "bookingReference": "GQ-2026-8QDW",
+        "tokenCode": "B1",
+        "date": "2026-10-08",
+        "time": "10:30",
+        "serviceName": "Birth Certificate"
+      },
+      "createdAt": "2026-10-07T09:37:28.655Z"
+    },
+    {
+      "id": "audit-1791365848181",
+      "userId": "user-citizen-rahul",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "user-citizen-rahul",
+      "metadata": {
+        "email": "citizen@govqueue.demo",
+        "role": "CITIZEN"
+      },
+      "createdAt": "2026-10-07T09:37:28.181Z"
+    },
+    {
+      "id": "audit-1791365484395",
+      "userId": null,
+      "action": "SYSTEM_SEED",
+      "entityType": "SYSTEM",
+      "entityId": null,
+      "metadata": {
+        "demoDate": "2026-10-07",
+        "tokenSeed": "A27"
+      },
+      "createdAt": "2026-10-07T09:00:00.000Z"
+    }
+  ]
+}
